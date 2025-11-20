@@ -1,2 +1,2 @@
 # tasks
-Tasks Microservice and Ui
+Tasks Microservice
